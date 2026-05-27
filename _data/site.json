@@ -1,0 +1,33 @@
+{
+  "title": "Rob Araujo — 3D Artist & Character Sculptor",
+  "description": "Rob Araujo é artista 3D especializado em character art, escultura digital e visualização para games. Com base em São Luís, BR.",
+  "url": "https://robaraujo.com",
+  "email": "robaraujo3d@gmail.com",
+  "socials": {
+    "artstation": "https://www.artstation.com/robaraujo",
+    "instagram": "https://www.instagram.com/3drobaraujo/",
+    "linkedin": "https://www.linkedin.com/in/robertharaujo/",
+    "youtube": "https://www.youtube.com/@robaraujo3d",
+    "patreon": "https://www.patreon.com/c/robaraujo3d/",
+    "x": "https://x.com/roberaujo",
+    "bluesky": ""
+  },
+  "about": {
+    "bio": "Rob Araujo é artista 3D com base em São Luís, BR, especializado em character art, escultura digital e visualização para games e mídia interativa. Sua prática transita entre o hiper-realismo orgânico e o concept art de criaturas e personagens, unindo técnica e narrativa em cada peça — do modelo digital à impressão física.",
+    "base": "São Luís, BR",
+    "specialty": "3D Print, Sculpture, Game Art",
+    "software": "ZBrush · Unreal Engine · Substance Painter · Marmoset · Blender · Photoshop · Illustrator",
+    "availability": "Freelance, Collab & Contrato"
+  },
+  "nav": [
+    { "label": "Home",     "filter": "all",     "enabled": true },
+    { "label": "3D Print", "filter": "print",   "enabled": true },
+    { "label": "Digital",  "filter": "digital", "enabled": true },
+    { "label": "About",    "filter": "about",   "enabled": true }
+  ],
+  "sections": {
+    "gallery":  { "enabled": true  },
+    "about":    { "enabled": true  },
+    "contact":  { "enabled": true  }
+  }
+}
