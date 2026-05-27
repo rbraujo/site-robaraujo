@@ -8,19 +8,20 @@ public_folder: "/assets/images"
 collections:
   - name: "projects"
     label: "Projects"
-    folder: "_data/projects"
-    create: true
-    slug: "{{slug}}"
+    files:
+      - label: "Main"
+        name: "main"
+        file: "_data/projects.json"
 
-    fields:
-      - label: "Title"
-        name: "title"
-        widget: "string"
+        fields:
+          - label: "Title"
+            name: "title"
+            widget: "string"
 
-      - label: "Description"
-        name: "description"
-        widget: "text"
+          - label: "Description"
+            name: "description"
+            widget: "text"
 
-      - label: "Thumbnail"
-        name: "thumbnail"
-        widget: "image"
+          - label: "Thumbnail"
+            name: "thumbnail"
+            widget: "image"
