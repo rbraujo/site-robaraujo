@@ -8,7 +8,7 @@ public_folder: "/assets/images"
 collections:
   - name: "projects"
     label: "Projects"
-    folder: "data/projects"
+    folder: "_data/projects"
     create: true
     slug: "{{slug}}"
 
