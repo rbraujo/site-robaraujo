@@ -10,8 +10,8 @@ collections:
     label: "Projects"
 
     files:
-      - label: "Project"
-        name: "project"
+      - label: "Main Project"
+        name: "main"
         file: "_data/projects.json"
 
         fields:
