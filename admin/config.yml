@@ -8,9 +8,10 @@ public_folder: "/assets/images"
 collections:
   - name: "projects"
     label: "Projects"
+
     files:
-      - label: "Main"
-        name: "main"
+      - label: "Project"
+        name: "project"
         file: "_data/projects.json"
 
         fields:
